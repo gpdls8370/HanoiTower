@@ -3,4 +3,4 @@
 
 (방탈 라이브러리를 사용하여 개발한 프로젝트입니다.)
 
-방탈 라이브러리 https://bangtal.bosornd.com/
+방탈 라이브러리 https://bangtal.bosornd.com
